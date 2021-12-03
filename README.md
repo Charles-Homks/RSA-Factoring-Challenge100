@@ -1,0 +1,2 @@
+# RSA-Factoring-Challenge
+ALX-Holberton have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. My mission which I had choosing to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that ALX-Holberton can decode the encrypted documents.
